@@ -38,7 +38,7 @@ export default class Main extends Component {
             <div className="row">
               <div className="col-8 text-center">
                 <div className="text-warning display-4">
-                  ĐẶT VÉ XEM PHIM CYBERLEARN.VN
+                  ĐẶT VÉ XEM PHIM
                 </div>
                 <div className="mt-3 text-light" style={{ fontSize: "25px" }}>
                   Màn hình
